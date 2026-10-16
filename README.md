@@ -5,5 +5,4 @@
 
 内置arc7.0.206曲库，支持导出并手动更新（只要输入更新的歌曲名字即可）
 
-![Uploading 图片.png…]()
-
+<img width="1348" height="828" alt="图片" src="https://github.com/user-attachments/assets/ad9d04c5-3678-4b18-95fe-9db604816812" />
